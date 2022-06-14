@@ -17,5 +17,5 @@ One thesis was that the median of age differs for the passenger classes. Profess
 ### 3.CABIN 
 There are a lot of missing values but we should use the cabin variable because it can be an important predictor. As you can see in the following picture, the first class had the cabins on deck A, B or C, a mix of it was on D or E and the third class was mainly on f or g. We can identify the deck by the first letter.
 
-![image](https://user-images.githubusercontent.com/98227015/173596964-c0d2afaf-9970-4f4f-8a02-a4ad2a002eb9.png)
+![WhatsApp Image 2022-06-14 at 7 35 55 PM](https://user-images.githubusercontent.com/98227015/173597148-8eaea7d6-4323-438a-80f7-51f566ea7479.jpeg)
 

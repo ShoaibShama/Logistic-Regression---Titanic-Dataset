@@ -1,6 +1,5 @@
 # Logistic-Regression---Titanic-Dataset
 Titanic dataset is one of the datasets available in sklearn.
-
 In the training data we have missings in the age, cabin and embarked column. In the test data set are missings in the age, fare and cabin column. We will concat both data sets and perform the data cleansing for the entire data set.
 
 ## DATA CLEANING
